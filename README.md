@@ -1,2 +1,2 @@
-# crytoverse-app
-crytoverse-app
+# cryptoverse-app
+cryptoverse-app
